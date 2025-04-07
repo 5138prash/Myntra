@@ -60,8 +60,6 @@ const removeFromWishlist = async (req, res) => {
   }
 };
 
-
-
 // Clear Wishlist
 const clearWishlist = async (req, res) => {
   const { userId } = req.params;
