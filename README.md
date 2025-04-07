@@ -51,11 +51,10 @@ This project aims to provide an interactive and seamless shopping experience, si
 - **Local Storage**: Used for storing user data and authentication.
 
 - **Backend**:
-- **Node.js**:
-- **Express.js**:
-- **MongoDB**:
-- **JWT**:
-- **:
+- **Node.js**: JavaScript runtime for building scalable server-side applications.
+- **Express.js**: Web framework for handling routes, middleware, and APIs.
+- **MongoDB**: NoSQL database for storing and managing application data.
+- **JWT**: Used for secure user authentication and session management.
 
 ---
 
