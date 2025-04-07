@@ -5,7 +5,7 @@ const token = Cookies.get('authToken') ;
 console.log("Token from cookie:", token);
 
 const baseApi = axios.create({
-    baseURL: import.meta.env.VITE_API_BASE_URL,
+    baseURL: "https://myntra-4b99.onrender.com/api",
     headers: {
         "Content-Type": "application/json",
         "Authorization": token ? `Bearer ${token}` : "",
