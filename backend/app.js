@@ -17,7 +17,7 @@ connectDB();
 // Middleware
 app.use(express.json());
 app.use(cors({
-  origin: "https://mantr.netlify.app/",
+  origin: "https://mantr.netlify.app",
   allowedHeaders: ['Content-Type', 'Authorization'], // your frontend port
   credentials: true
 }));
