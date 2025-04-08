@@ -88,7 +88,8 @@ npm install concurrently
 
 
 # Start the development server
-npm run dev
+npm start
+
 
 
 ```
