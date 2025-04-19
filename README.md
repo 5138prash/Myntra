@@ -3,7 +3,7 @@
 Myntra Clone is an e-commerce web application built using **React.js** and **Tailwind CSS**. It replicates the core functionalities of the Myntra website, allowing users to browse products, filter them, add items to their wishlist or cart, and place orders.
 
 
-![Myntra](Screenshot (236).png)
+![Myntra](Myntra_Wallpaper.png)
 ---
 
 ## Table of Contents
